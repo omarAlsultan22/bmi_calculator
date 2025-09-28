@@ -1,6 +1,41 @@
-# bmii
+## BMI Calculator (Flutter)
 
-"A new Flutter project."
+📊 A clean, minimal BMI calculator with accurate weight/height analysis
+
+## ⚖️ Core Functionality
+
+• Precise BMI Calculation: weight / (height^2)
+
+• Category Classification:
+
+• Underweight (<18.5)
+
+• Normal (18.5-24.9)
+
+• Overweight (25-29.9)
+
+• Obese (≥30)
+
+## 🎨 Custom UI Elements
+
+• Interactive sliders for height/weight input
+
+• Color-coded results (changes based on category)
+
+• Neumorphic/Material design buttons
+
+• Responsive layout for all devices
+
+## 📱 User Flow
+
+• Input height (cm/ft-in)
+
+• Input weight (kg/lbs)
+
+• Instant BMI calculation
+
+• Displays category + ideal weight range
+
 
 ## Getting Started
 
