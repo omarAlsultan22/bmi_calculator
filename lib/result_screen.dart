@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+
 class ResultScreen extends StatelessWidget {
   final String bodyCondition;
   final bool isMale;
