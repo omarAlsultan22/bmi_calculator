@@ -40,7 +40,7 @@ class _BmiScreenState extends State<BmiScreen> {
     if (bmi <= 25) return ('Normal weight', Colors.green);
     if (bmi <= 30) return ('Increase in weight', Colors.yellow);
     if (bmi <= 35) return ('First degree obesity', Colors.red);
-    if (bmi <= 40) return ('Second degree obesity', Colors.red.shade900);
+    if (bmi <= 40) return ('Second degree obesity', Colors.red.shade700);
     return ('Third degree obesity', Colors.red.shade900);
   }
 
